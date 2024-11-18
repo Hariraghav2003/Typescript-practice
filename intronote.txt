@@ -1,0 +1,4 @@
+Typescript: 
+        TypeScript is a syntactic superset of JavaScript which allows for adding more features like OOPS,Strong Typing...etc to the JavaScript making the code 
+error free since the JavaScript is loosely typed programming langugage to make it strong we use TypeScript but all the typescript code are transpile (converted)
+into JavaScript.
